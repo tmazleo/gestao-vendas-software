@@ -1,0 +1,11 @@
+br\com\mycompany\gestao\venda\GestaoVenda.class
+br\com\mycompany\gestao\venda\modelo\conexao\ConexaoPostgre.class
+br\com\mycompany\gestao\venda\modelo\dominio\Perfil.class
+br\com\mycompany\gestao\venda\Main.class
+br\com\mycompany\gestao\venda\modelo\dominio\Categoria.class
+br\com\mycompany\gestao\venda\modelo\conexao\Conexao.class
+br\com\mycompany\gestao\venda\modelo\dominio\Venda.class
+br\com\mycompany\gestao\venda\modelo\dominio\Cliente.class
+br\com\mycompany\gestao\venda\modelo\dominio\VendaItem.class
+br\com\mycompany\gestao\venda\modelo\dominio\Usuario.class
+br\com\mycompany\gestao\venda\modelo\dominio\Produto.class
